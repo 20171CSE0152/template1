@@ -93,7 +93,7 @@
     background-color: brown;
 }
 #container-3{
-    margin-top: 1%;
+    margin-top: 4%;
     margin-left: 9%;
     width: 81%;
     height: 38%;
@@ -145,7 +145,7 @@
     float: left;
     width: 79%;
     margin-left: 9%;
-    margin-top: 2%;
+    margin-top: 10%;
     height: 22%;
     background-color: aqua;
 }
@@ -180,7 +180,7 @@
     background-color: lightblue;
     float: left;
     width: 81%;
-    margin-top: 2%;
+    margin-top: 4%;
     margin-left: 9%;
     height: 5%;
 }
@@ -244,10 +244,9 @@
     text-align: center;
     justify-content: space-around;
     width: 81%;
-    height: 25%;
+    height: 20%;
     float: left;
     margin-left: 9%;
-    margin-top: 2%;
 }
 #but{
     background-color: goldenrod;
